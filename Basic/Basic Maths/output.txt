@@ -1,1 +1,1 @@
-The number of digits in 234 is: 3
+Number of odd digits in 234 is: 1
