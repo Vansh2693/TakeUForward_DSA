@@ -4,7 +4,7 @@ public class StringPalindrome {
         return palindromeHelper(str,0,str.length()-1);
     }
 
-    private static boolean palindromeHelper(String s, int low, int high){
+    private static boolean palindromeHelper(String str, int low, int high){
         if(low>=high) return true;
 
         if(str.charAt(low)!=str.charAt(high)) return false;
