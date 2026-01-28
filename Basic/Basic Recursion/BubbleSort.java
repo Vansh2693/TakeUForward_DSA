@@ -16,6 +16,7 @@ public class BubbleSort {
         } else {
             bubble1(arr, r - 1, 0);
         }
+
     }
 
     static void bubble2(int arr[], int n) {
