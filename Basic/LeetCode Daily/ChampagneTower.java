@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 // 14-Feb-2026
 public class ChampagneTower {
     public static double champagneRowGlass(int poured, int query_row, int query_glass) {
